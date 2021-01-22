@@ -1,0 +1,2 @@
+# Escola-Alf
+Média Aritmética
