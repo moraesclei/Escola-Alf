@@ -18,6 +18,7 @@ else:
     print('Situação: ',r)
     
 ######################################   
+
 print('-'*30)
 print('AVALIAÇÃO FINAL')
 print('-'*30)
